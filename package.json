@@ -1,0 +1,16 @@
+{
+  "name": "web-scrapper",
+  "version": "1.0.0",
+  "description": "scrapper",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "harpreetkhalsagtbit",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  }
+}
